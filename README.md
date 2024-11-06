@@ -1,5 +1,5 @@
 ![SmokeyPoker](readme_images/home.png)
-# SmokeyPoker-Collection-2020
+# SmokeyPoker Collection 2020
 SmokeyPoker is a basic card shuffling game where the user can shuffle cards interactively. It was another project in my React.js course collection from 2020. The project emphasized mastering API requests and working with stateful React components to create a dynamic user experience.
 
 ## Available Scripts
