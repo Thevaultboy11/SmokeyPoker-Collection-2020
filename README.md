@@ -1,9 +1,11 @@
 ![SmokeyPoker](readme_images/home.png)
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# SmokeyPoker-Collection-2020
+SmokeyPoker is a basic card shuffling game where the user can shuffle cards interactively. It was another project in my React.js course collection from 2020. The project emphasized mastering API requests and working with stateful React components to create a dynamic user experience.
 
 ## Available Scripts
+To run the application you must first install the node_modules wih the comand. 
+
+### `npm install --force`
 
 In the project directory, you can run:
 
